@@ -1,3 +1,4 @@
-#!/bin/bash
-0 string SCHOOL School data 
-!:mime School
+(File should contain,
+Line1, 0 string SCHOOL School data
+Line2, !:mime School
+) 
