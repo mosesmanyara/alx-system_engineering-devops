@@ -1,4 +1,2 @@
-(File should contain,
-Line1, 0 string SCHOOL School data
-Line2, !:mime School
-) 
+0 string SCHOOL School
+!:mime School
